@@ -1,0 +1,10 @@
+B:\Documents\Github\AI_group\AI\bin\Debug\AI.exe.config
+B:\Documents\Github\AI_group\AI\bin\Debug\AI.exe
+B:\Documents\Github\AI_group\Ip\bin\Debug\AI.pdb
+B:\Documents\Github\AI_group\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+B:\Documents\Github\AI_group\AI\obj\Debug\AI.exe
+B:\Documents\Github\AI_group\AI\obj\Debug\AI.pdb
+B:\Documents\Github\AI_group\AI\obj\Debug\AI.csprojAssemblyReference.cache
+B:\Documents\Github\AI_group\AI\bin\Debug\MathNet.Numerics.dll
+B:\Documents\Github\AI_group\AI\bin\Debug\MathNet.Numerics.xml
+B:\Documents\Github\AI_group\AI\obj\Debug\AI.csproj.CopyComplete
